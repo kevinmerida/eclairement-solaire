@@ -18,3 +18,4 @@ Page pour le calcul de la position du Soleil au cours de l'année : [**Ephemerid
 
 ## Les paramètres astronomiques utiles
 
+Pour les calculs, il faut disposer de l'anomalie moyenne au 1er janvier 2024 (Reference frame: ICRF, Reference plane: ecliptic x-y plane derived from reference frame (standard obliquity, inertial)). Dans le tableau ci-dessous, on lit **3.568306963251475E+02** (Mean anomaly), soit $M_0 \approx 356.83°$.
