@@ -82,5 +82,7 @@ La signification des paramètres est documentée ci-dessous.
 
 ![](Data/Figure_1.png)
 
+![](DP_figure.jpg)
+
 ![](Data/Figure_2.png)
 
