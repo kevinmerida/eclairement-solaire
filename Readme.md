@@ -80,4 +80,7 @@ La signification des paramètres est documentée ci-dessous.
 ```
 ## Programmes et résultats
 
-![](Data/Figure1.png)
+![](Data/Figure_1.png)
+
+![](Data/Figure_2.png)
+
