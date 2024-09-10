@@ -60,6 +60,7 @@ $$EOE
 ```
 
 La signification des paramètres est documentée ci-dessous.
+
 ```
   Symbol meaning:
 
@@ -77,3 +78,4 @@ La signification des paramètres est documentée ci-dessous.
       AD     Apoapsis distance (km)
       PR     Sidereal orbit period (sec)
 ```
+## Programmes et résultats
