@@ -22,3 +22,5 @@ Pour les calculs, il faut disposer de l'anomalie moyenne au 1er janvier 2024 (Re
 
 Il faut disposer aussi de la longitude écliptique du Soleil au périhélie. Dans le tableau ci-dessous, on lit **1.738524823660708E+02** (Longitude of Ascending Node) et **2.891365971401908E+02** (Argument of Perifocus). La somme de ces deux angles donne la longitude écliptique de la Terre (origine Soleil). Pour obtenir la longitude écliptique du Soleil (origine Terre), il faut retrancher 180°, soit $W \approx 282.99°$.
 
+Le calcul d'éphéméride est obtenu via l'application "JPL Horizons", avec la configuration ci-dessous.
+
