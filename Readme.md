@@ -16,3 +16,5 @@ Article de Didier Paillard : [**Climat et astronomie**](http://clea-astro.eu/arc
 
 Page pour le calcul de la position du Soleil au cours de l'année : [**Ephemerides du JPL**](https://ssd.jpl.nasa.gov/horizons/app.html#/)
 
+## Les paramètres astronomiques utiles
+
