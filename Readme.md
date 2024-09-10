@@ -31,3 +31,18 @@ Coordinate Center: Sun (body center) [500@10]
 Time Specification: Start=2024-01-01 TDB , Stop=2024-01-02, Step=1 (days)
 Table Settings: custom
 ```
+
+Le résultat est un fichier texte, avec l'en-tête ci-dessous.
+
+```
+*******************************************************************************
+Ephemeris / WWW_USER Fri Aug 23 15:00:56 2024 Pasadena, USA      / Horizons
+*******************************************************************************
+Target body name: Earth-Moon Barycenter (3)       {source: DE441}
+Center body name: Sun (10)                        {source: DE441}
+Center-site name: BODY CENTER
+*******************************************************************************
+Start time      : A.D. 2024-Jan-01 00:00:00.0000 TDB
+Stop  time      : A.D. 2024-Jan-02 00:00:00.0000 TDB
+Step-size       : 1440 minutes
+```
