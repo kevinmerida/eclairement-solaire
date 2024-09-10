@@ -24,3 +24,10 @@ Il faut disposer aussi de la longitude écliptique du Soleil au périhélie. Dan
 
 Le calcul d'éphéméride est obtenu via l'application "JPL Horizons", avec la configuration ci-dessous.
 
+```
+Ephemeris Type: Osculating Orbital Elements
+Target Body: Earth-Moon Barycenter [EMB]
+Coordinate Center: Sun (body center) [500@10]
+Time Specification: Start=2024-01-01 TDB , Stop=2024-01-02, Step=1 (days)
+Table Settings: custom
+```
