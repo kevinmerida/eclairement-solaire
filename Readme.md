@@ -79,3 +79,5 @@ La signification des paramètres est documentée ci-dessous.
       PR     Sidereal orbit period (sec)
 ```
 ## Programmes et résultats
+
+![](Data/Figure1.png)
