@@ -19,3 +19,5 @@ Page pour le calcul de la position du Soleil au cours de l'année : [**Ephemerid
 ## Les paramètres astronomiques utiles
 
 Pour les calculs, il faut disposer de l'anomalie moyenne au 1er janvier 2024 (Reference frame: ICRF, Reference plane: ecliptic x-y plane derived from reference frame (standard obliquity, inertial)). Dans le tableau ci-dessous, on lit **3.568306963251475E+02** (Mean anomaly), soit $M_0 \approx 356.83°$.
+
+Il faut disposer aussi de la longitude écliptique du Soleil au périhélie. Dans le tableau ci-dessous, on lit **1.738524823660708E+02** (Longitude of Ascending Node) et **2.891365971401908E+02** (Argument of Perifocus). La somme de ces deux angles donne la longitude écliptique de la Terre (origine Soleil). Pour obtenir la longitude écliptique du Soleil (origine Terre), il faut retrancher 180°, soit $W \approx 282.99°$.
