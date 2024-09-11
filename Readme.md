@@ -81,6 +81,7 @@ La signification des paramètres est documentée ci-dessous.
 ## Programmes et résultats
 
 Le programme [**sol.py**](Code/sol.py) contient les fonctions permettant les calculs et la générations des figures ci-dessous.
+Le notebook [**eclairement_solaire.ipynb**](Notebook/eclairement_solaire.ipynb) donne des exemples d'appels à ces fonctions.
 
 ![](Data/Figure_1.png)
 
