@@ -1,5 +1,9 @@
 # Eclairement solaire moyen journalier au sommet de l'atmosphère
 
+La vidéo :
+
+https://www.youtube.com/watch?v=3W8J8YJozTs
+
 ## Objectif
 
 L'idée est ici de montrer que la hauteur du Soleil au-dessus de l’horizon n'est pas le seul facteur essentiel qui détermine le climat. La durée du jour est aussi un élément essentiel pour discuter de l’énergie reçue à différents endroits et différentes saisons sur Terre : au solstice d’été, le pôle Nord bénéficie de 24 heures de soleil, contre 12 heures seulement à l’équateur.
