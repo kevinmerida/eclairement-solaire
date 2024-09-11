@@ -80,6 +80,8 @@ La signification des paramètres est documentée ci-dessous.
 ```
 ## Programmes et résultats
 
+Le programme [**sol.py**](Code/sol.py) contient les fonctions permettant les calculs et la générations des figures ci-dessous.
+
 ![](Data/Figure_1.png)
 
 ![](Data/DP_figure.jpg)
