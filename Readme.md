@@ -83,9 +83,15 @@ La signification des paramètres est documentée ci-dessous.
 Le programme [**sol.py**](Code/sol.py) contient les fonctions permettant les calculs et la générations des figures ci-dessous.
 Le notebook [**eclairement_solaire.ipynb**](Notebook/eclairement_solaire.ipynb) donne des exemples d'appels à ces fonctions.
 
+### La figure obtenue avec les paramètres par défaut
+
 ![](Data/Figure_1.png)
 
+### La figure extraite de l'article [**Climat et astronomie**](http://clea-astro.eu/archives/cahiers-clairaut/CLEA_CahiersClairaut_170_04.pdf)
+
 ![](Data/DP_figure.jpg)
+
+### Durée du jour au cours de l'année
 
 ![](Data/Figure_2.png)
 
