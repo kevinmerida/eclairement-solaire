@@ -1,8 +1,6 @@
 # Eclairement solaire moyen journalier au sommet de l'atmosphère
 
-La vidéo :
-
-https://www.youtube.com/watch?v=3W8J8YJozTs
+La vidéo : https://www.youtube.com/watch?v=3W8J8YJozTs
 
 ## Objectif
 
